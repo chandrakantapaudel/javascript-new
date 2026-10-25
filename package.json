@@ -1,0 +1,11 @@
+{
+  "name": "javascript-new",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple JavaScript practice project",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js",
+    "test-file": "node .devcontainer/test.js"
+  }
+}
